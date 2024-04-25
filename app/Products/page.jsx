@@ -1,11 +1,9 @@
-import LinkRouter from '@/components/LinkRouter'
 import React from 'react'
 
 const page = () => {
   return (
     <div>
-      <h1>Hello World !</h1>
-      <LinkRouter/>
+      <h1>This is Products </h1>
     </div>
   )
 }
